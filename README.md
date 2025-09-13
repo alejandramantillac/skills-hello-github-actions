@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions
+# Hello GitHub Actions 😄
 
 _Create and run a GitHub Actions workflow._
 
@@ -8,7 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now added a fully functioning workflow to your repository! :smile:_
+_You've now added a fully functioning workflow to your repository! 😄_
 
 The shell script in the workflow will run whenever a new pull request is opened.
 
@@ -16,14 +16,14 @@ The shell script in the workflow will run whenever a new pull request is opened.
 
 ![A screenshot of the Actions tab showing a list of workflow runs.](https://user-images.githubusercontent.com/16547949/62388049-4e64e600-b52a-11e9-8bf5-db0c5452360f.png)
 
-### :keyboard: Activity: Trigger the workflow
+### ⌨️ Activity: Trigger the workflow
 
 1. Make a new branch named `test-workflow`.
-1. Make a change, such as adding an emoji to your README.md file, and commit the change directly to your new branch.
-1. In the **Pull requests** tab, create a pull request that will merge `test-workflow` into `main`.
-1. Watch the workflow running in the checks section of the pull request.
-1. Notice the comment that the workflow adds to the pull request.
-1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
+2. Make a change, such as adding an emoji to your README.md file, and commit the change directly to your new branch.
+3. In the **Pull requests** tab, create a pull request that will merge `test-workflow` into `main`.
+4. Watch the workflow running in the checks section of the pull request.
+5. Notice the comment that the workflow adds to the pull request.
+6. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
 
 <footer>
 
